@@ -1,0 +1,8 @@
+datasets==3.2.0
+numpy==2.2.2
+peft==0.14.0
+torch==2.5.1
+tqdm==4.67.1
+transformers==4.45.2
+sentencepiece==0.2.0
+protobuf==5.29.3
