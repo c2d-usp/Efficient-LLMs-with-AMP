@@ -1,6 +1,6 @@
 # AMP: Attention Heads and MLP Pruning
 
-This repository contains code for pruning large language models (LLMs) using the Attention Heads and MLP Pruning (AMP) method. The implementation currently supports LLaMA models, with a structure that allows for easy extension to other architectures in the future.
+This repository contains code for pruning large language models (LLMs) using the **A**ttention Heads and **M**LP **P**runing (AMP) method. The implementation currently supports LLaMA models, with a structure that allows for easy extension to other architectures in the future.
 
 ## Overview
 
@@ -12,7 +12,7 @@ The pipeline consists of three main steps:
 3. **Evaluation**: Assessing the pruned and fine-tuned model on standard benchmarks
 
 ## Requirements
-- Requirements are available at the requirements.txt file. For installation, use the command: `pip install -r requirements.txt`. Used Python: 3.10.12.
+- Requirements are available at the `requirements.txt` file. For installation, use the command: `pip install -r requirements.txt`. Used Python: 3.10.12.
 
 ## File Structure
 
@@ -96,5 +96,5 @@ The code is designed to be easily extended to other model architectures. To add 
 3. Add the appropriate target modules for LoRA fine-tuning in `fine_tune.py`
 
 
-## Acknowledgement
+## Acknowledgements
 We thank Instituto de Ciência e Tecnologia Itaú (ICTi) and Programa de Bolsas Itaú (PBI) for the technical support, resources, and financial aid in the development of the research project.
