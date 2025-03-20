@@ -1,6 +1,6 @@
 # AMP: Attention Heads and MLP Pruning
 
-This repository contains code for pruning large language models (LLMs) using the **A**ttention Heads and **M**LP **P**runing (AMP) method. The implementation currently supports LLaMA models, with a structure that allows for easy extension to other architectures in the future.
+This repository contains code for pruning large language models (LLMs) using the **A**ttention Heads and **M**LP **P**runing (AMP) method. The implementation currently supports LLaMA models, with a structure that allows for easy extension to other architectures in the future. Models are available at: [Hugging Face collection](https://huggingface.co/collections/c2d-usp/efficient-large-language-models-67a36f099af36b0c122877b0).
 
 ## Overview
 
