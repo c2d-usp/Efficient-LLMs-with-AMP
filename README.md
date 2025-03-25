@@ -97,4 +97,4 @@ The code is designed to be easily extended to other model architectures. To add 
 
 
 ## Acknowledgements
-We thank Instituto de Ciência e Tecnologia Itaú (ICTi) and Programa de Bolsas Itaú (PBI) for the technical support, resources, and financial aid in the development of the research project.
+We thank Instituto de Ciência e Tecnologia Itaú (ICTi) for the technical support, resources, and financial aid in the development of the research project. The authors would also like to thank the Programa de Bolsas Itaú (PBI) of the Centro de Ciência de Dados (C2D), supported by Itaú Unibanco S.A.
