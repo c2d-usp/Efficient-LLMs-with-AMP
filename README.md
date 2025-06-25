@@ -98,3 +98,20 @@ The code is designed to be easily extended to other model architectures. To add 
 
 ## Acknowledgements
 We thank Instituto de Ciência e Tecnologia Itaú (ICTi) for the technical support, resources, and financial aid in the development of the research project. The authors would also like to thank the Programa de Bolsas Itaú (PBI) of the Centro de Ciência de Dados (C2D), supported by Itaú Unibanco S.A.
+
+## Publication
+Please cite [our paper](https://arxiv.org/abs/2504.21174) in your publications if it helps your research.
+```bash
+@inproceedings{Mugnaini:2020,
+author    = {Leandro Giusti Mugnaini, 
+			Bruno Lopes Yamamoto, 
+			Lucas Lauton de Alcantara, 
+			Victor Zacarias, 
+			Edson Bollis, 
+			Lucas Pellicer, 
+			Anna Helena Reali Costa and
+			Artur Jordao},
+title     = {Efficient LLMs with AMP: Attention Heads and MLP Pruning},
+booktitle = {International Joint Conference on Neural Networks (IJCNN).},
+}
+```
