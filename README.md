@@ -4,7 +4,12 @@ This repository contains code for pruning large language models (LLMs) using the
 
 Demonstration of AMP (Comparison of Original vs. Pruned LLaMA-2 7B):
 
-[![Watch the video](https://img.youtube.com/vi/_88wLGZpqKs/maxresdefault.jpg)](https://youtu.be/_88wLGZpqKs)
+
+
+https://github.com/user-attachments/assets/b953ea73-5ba7-4c79-b161-bf4c4859174a
+
+
+
 
 ## Overview
 
